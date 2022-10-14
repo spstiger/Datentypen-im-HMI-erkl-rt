@@ -1,1 +1,1 @@
-# Datentypen-im-HMI-erkl-rt
+# Datentypen-im-HMI-erklaert
